@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1554071911 source:c:\users\alejo\desktop\primer proyecto pc manuel rios\main.cpp
+	<iostream>
+	<string.h>
+
+1554075277 source:c:\users\alejo\desktop\proyecto parte 1 image\main.cpp
+	<iostream>
+	<string.h>
+
+1554590717 source:c:\users\alejo\desktop\proyecto\proyecto parte 1 image\main.cpp
+	<iostream>
+	<string.h>
+
+1554219072 source:e:\proyecto\proyecto parte 1 image\main.cpp
+	<iostream>
+	<string.h>
+
+1554591213 source:c:\users\alejo\desktop\proyecto\proyecto parte 1 imagen\main.cpp
+	<iostream>
+	<string.h>
+
+1554692993 source:c:\users\usuario\downloads\proyecto manuel rios y manuel gonzales\proyecto parte 1 imagen\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"CODIFICADO.h"
+
+1554692993 source:c:\users\usuario\downloads\proyecto manuel rios y manuel gonzales\proyecto parte 1 imagen\codificado.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"CODIFICADO.h"
+
+1554692993 c:\users\usuario\downloads\proyecto manuel rios y manuel gonzales\proyecto parte 1 imagen\codificado.h
+
+1554844939 source:c:\users\alejo\desktop\proyecto manuel rios y manuel gonzalez\proyecto parte 1 imagen\codificado.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"CODIFICADO.h"
+
+1554754698 c:\users\alejo\desktop\proyecto manuel rios y manuel gonzalez\proyecto parte 1 imagen\codificado.h
+
+1554754670 source:c:\users\alejo\desktop\proyecto manuel rios y manuel gonzalez\proyecto parte 1 imagen\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"CODIFICADO.h"
+
+1554828476 source:d:\proyecto manuel rios y manuel gonzalez\proyecto parte 1 imagen\codificado.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"CODIFICADO.h"
+
+1554754698 d:\proyecto manuel rios y manuel gonzalez\proyecto parte 1 imagen\codificado.h
+
+1554754670 source:d:\proyecto manuel rios y manuel gonzalez\proyecto parte 1 imagen\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"CODIFICADO.h"
+

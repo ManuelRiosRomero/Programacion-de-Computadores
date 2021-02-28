@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1554173432 source:c:\users\alejo\desktop\proyecto\proyecto parte 2 faltante\main.cpp
+	<iostream>
+	<string.h>
+
+1554218034 source:e:\proyecto\proyecto parte 2 faltante\main.cpp
+	<iostream>
+	<string.h>
+
+1554678669 source:c:\users\usuario\downloads\proyecto manuel rios y manuel gonzales\proyecto parte 2 faltante\main.cpp
+	<iostream>
+	<string.h>
+
+1554693694 source:c:\users\usuario\downloads\proyecto manuel rios y manuel gonzales\proyecto parte 2 faltante\claves.cpp
+	<iostream>
+	<string.h>
+	"CLAVES.h"
+
+1554693567 c:\users\usuario\downloads\proyecto manuel rios y manuel gonzales\proyecto parte 2 faltante\claves.h
+
+1554693694 source:c:\users\alejo\desktop\proyecto manuel rios y manuel gonzalez\proyecto parte 2 faltante\claves.cpp
+	<iostream>
+	<string.h>
+	"CLAVES.h"
+
+1554693567 c:\users\alejo\desktop\proyecto manuel rios y manuel gonzalez\proyecto parte 2 faltante\claves.h
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1557530410 source:c:\users\usuario\downloads\proyecto 2\main (1).cpp
+	"util.h"
+	"Lista.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1557530405 c:\users\usuario\downloads\proyecto 2\util.h
+	"Lista.h"
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1557529720 c:\users\usuario\downloads\proyecto 2\lista.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+
